@@ -52,7 +52,8 @@ Training: Oct 2007 – Dec 2016. Test: Jan 2017 – Sep 2026. **The test period 
 
 *CAGR = average yearly return. Sharpe = return above T-bills per unit of volatility. Worst drop = maximum drawdown.*
 
-![Strategy lab growth](results/strategy_lab_growth.png)
+![Strategy lab growth](results/strategy_lab_growth.png<img width="1430" height="715" alt="strategy_lab_growth" src="https://github.com/user-attachments/assets/9cee74d1-d536-49ce-b71e-5514a627fc9f" />
+
 
 ### 2. My swing-trading rules: 20 years, 48 stocks, 1% risk per trade
 
@@ -69,7 +70,8 @@ My rules: enter on pullbacks in an uptrend or breakouts above resistance; stop b
 
 *R = the amount risked on a trade. +0.12R means about $12 gained per $100 risked, on average.*
 
-![Swing backtest](results/backtest_equity.png)
+![Swing backtest](results/backtest_equity.png<img width="1300" height="624" alt="equity" src="https://github.com/user-attachments/assets/fa7365ed-79f9-4a2d-b594-868581a64923" />
+
 
 ---
 
@@ -104,7 +106,8 @@ python3 why_it_moved.py NVDA biggest      # its 10 biggest moves of the past yea
 
 The main lesson from using it: a large share of big single-day moves in individual stocks are really market or industry moves. Company-specific moves that dwarf the rest tend to cluster around earnings.
 
-![Why it moved](results/why_it_moved.png)
+![Why it moved](results/why_it_moved.png<img<img width="1132" height="708" alt="Screenshot 2026-09-26 at 2 49 51 PM" src="https://github.com/user-attachments/assets/8242d19c-7cfe-4d07-8e72-e4c9448daee6" />
+
 
 ---
 
@@ -135,4 +138,4 @@ Each script saves its results in its own folder. `why_it_moved.py` opens its exp
 
 ## About
 
-Built by [Your Name], an incoming finance student interested in wealth management. This project started as a question about my own trading and turned into a lesson in how to test ideas without fooling yourself.
+Built by Michael Tyler, an incoming finance student interested in wealth management. This project started as a question about my own trading and turned into a lesson in how to test ideas without fooling yourself.
